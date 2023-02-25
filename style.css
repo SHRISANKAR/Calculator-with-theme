@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -7,7 +9,7 @@
 }
 
 body {
-    font-family: sans-serif;
+     font-family: 'Varela Round', sans-serif;
 }
 
 a {
@@ -16,8 +18,7 @@ a {
 }
 
 body {
-    /* background-image: linear-gradient( to bottom right, rgb(54, 0, 251),rgb(255, 255, 255)); */
-    /* background-color: #1b2f38; */
+ 
     background-image: url('yellow-6168124_1920.jpg');
 }
 
